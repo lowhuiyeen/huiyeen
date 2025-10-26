@@ -1,11 +1,11 @@
-<table>
-<tr>
-<td width="40%">
+<table style="border-collapse: collapse; border: 0; background: transparent;">
+<tr style="border: 0; background: transparent;">
+<td width="40%" style="border: 0; background: transparent; padding: 0;">
 
 ![Banner](assets/banner.png)
 
 </td>
-<td width="60%">
+<td width="60%" style="border: 0; background: transparent; padding: 0;">
 
 # Hi, I'm Hui Yeen <img src="assets/greeting.gif?v=1" width="32" height="32" alt="wave">
 
@@ -33,28 +33,28 @@
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<table style="border-collapse: collapse; border: 0; background: transparent;">
+<tr style="border: 0; background: transparent;">
+<td width="50%" valign="top" style="border: 0; background: transparent;">
 
-### 📖 About
+### About
 - First-year postgraduate student at UTM Johor  
 - Exploring coding, creativity, and curiosity-driven learning  
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border: 0; background: transparent;">
 
-### ✨ Highlights
+### Highlights
 > Focused on learning and documenting progress  
 > Selected pins show what I've built or explored  
 
 </td>
 </tr>
 
-<tr>
-<td width="50%" valign="top">
+<tr style="border: 0; background: transparent;">
+<td width="50%" valign="top" style="border: 0; background: transparent;">
 
-### 🧰 Toolbox Learning
+### Toolbox Learning
 <p>
   <img height="24" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img height="24" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -64,9 +64,9 @@
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border: 0; background: transparent;">
 
-### 📊 Stats
+### Stats
 <p align="left">
   <img height="130" src="https://github-readme-stats.vercel.app/api?username=lowhuiyeen&show_icons=true&hide_title=true&theme=transparent" alt="Stats">
   <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowhuiyeen&layout=compact&theme=transparent" alt="Top Langs">
