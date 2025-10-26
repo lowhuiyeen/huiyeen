@@ -1,19 +1,22 @@
 <!-- ====== BANNER ====== -->
+<div align="center" style="
+  : linear-gradient(rgba(0, 0, 0, 0.19), rgba(0, 0, 0, 0.29)), url('assets/banner.png');
+  background-size: cover;
+  background-position: center;
+  padding: 100px 0;
+  color: white;
+  border-radius: 10px;
+">
+</div>
+<h1 align="center" style = "border-collapse: collapse; border: none;">Hi, I'm Hui Yeen<img src="assets/greeting.gif?v=1" width="32" height="32" alt="wave">
+</h1> <p align="center"> <em>UTM Johor Student • Curious Builder • Learning in progress</em> </p>
+<!-- ====== BANNER ====== -->
 <p align="center">
-  <img src="assets/banner.png" alt="Hi, I'm Hui Yeen" width="100%">
-</p>
-
-<h1 align="center">
-  Hi, I'm Hui Yeen 
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32" height="32" alt="wave">
-</h1>
-
-<p align="center">
-  UTM Johor Student • Curious Builder • Learning in Public
+  <img src="./assets/banner.png?v=1" alt="Hui Yeen banner" width="100%"  style="margin: border-radius:10px; ">
 </p>
 
 <!-- ====== CONTACT BADGES ====== -->
-<p align="center">
+<p align="center" >
   <a href="https://github.com/lowhuiyeen" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/-@lowhuiyeen-181717?style=flat-square&logo=GitHub&logoColor=white">
   </a>
@@ -37,9 +40,8 @@
 ### About
 - First-year postgraduate student at UTM Johor  
 - Exploring coding, creativity, and curiosity-driven learning  
-- Enjoying small, meaningful projects and tidy documentation  
 
-### Toolbox
+### Toolbox learning
 <p>
   <img height="24" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img height="24" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -47,8 +49,8 @@
   <img height="24" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img height="24" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </p>
-
 </td>
+
 <td width="50%" valign="top" style="border: none;">
 
 ### Highlights
@@ -56,7 +58,7 @@
 > Selected pins show what I’ve built or explored  
 
 ### Stats
-<p align="center">
+<p align="left">
   <img height="130" src="https://github-readme-stats.vercel.app/api?username=lowhuiyeen&show_icons=true&hide_title=true&theme=transparent" alt="Stats">
   <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowhuiyeen&layout=compact&theme=transparent" alt="Top Langs">
 </p>
