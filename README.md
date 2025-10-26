@@ -1,31 +1,20 @@
-<div style="font-family: 'OCR A Extended', monospace;">
-
-<div>
-  <img align="left" width="40%" src="assets/banner.png" alt="Banner" style="border-radius: 20px; margin-right: 20px;">
-  
-  <div>
-    <h1 style="font-family: 'OCR A Extended', monospace;">
-      Hi, I'm Hui Yeen
-      <img src="assets/greeting.gif?v=1" width="32" height="32" alt="wave">
-    </h1>
-    <p style="font-family: 'OCR A Extended', monospace;"><em>UTM Johor Student • Curious Builder • Learning in progress</em></p>
-  </div>
-  
-  <br clear="left"/>
 </div>
+<p>
+<h1 align="center" style = "font-family: OCR A Extended,monospace;border-collapse: collapse; border: none;">Hi, I'm Hui Yeen<img src="assets/greeting.gif?v=1" width="32" height="32" alt="wave">
+</h1> <p align="center" style="font-family: OCR A Extended,monospace;"> <em>UTM Johor Student • Curious Builder • Learning in progress</em> </p>
 
 <!-- ====== CONTACT BADGES ====== -->
-<p align="center">
-  <a href="https://github.com/lowhuiyeen">
+<p align="center" >
+  <a href="https://github.com/lowhuiyeen" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/-@lowhuiyeen-181717?style=flat-square&logo=GitHub&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/huiyeenlow">
+  <a href="https://www.linkedin.com/in/huiyeenlow" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-huiyeenlow-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
-  <a href="https://www.youtube.com/@huiyeen">
+  <a href="https://www.youtube.com/@huiyeen" target="_blank">
     <img alt="YouTube" src="https://img.shields.io/badge/-@huiyeen-FF0000?style=flat-square&logo=YouTube&logoColor=white">
   </a>
-  <a href="mailto:lowhuiyeen@gmail.com">
+  <a href="mailto:lowhuiyeen@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/-lowhuiyeen@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">
   </a>
 </p>
