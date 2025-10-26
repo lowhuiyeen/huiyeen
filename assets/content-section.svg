@@ -1,0 +1,18 @@
+<svg width="800" height="300" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: bold 18px 'Courier New', monospace; fill: #000; }
+    .text { font: 14px 'Courier New', monospace; fill: #333; }
+    .quote { font: italic 14px 'Courier New', monospace; fill: #666; }
+  </style>
+  
+  <!-- Left Column: About -->
+  <text x="20" y="30" class="title">About</text>
+  <text x="20" y="55" class="text">• First-year postgraduate student at UTM Johor</text>
+  <text x="20" y="80" class="text">• Exploring coding, creativity, and curiosity-driven</text>
+  <text x="30" y="100" class="text">learning</text>
+  
+  <!-- Right Column: Highlights -->
+  <text x="420" y="30" class="title">Highlights</text>
+  <text x="420" y="55" class="quote">Focused on learning and documenting progress</text>
+  <text x="420" y="80" class="quote">Selected pins show what I've built or explored</text>
+</svg>
