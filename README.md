@@ -1,5 +1,5 @@
 <div>
-  <table width="100%" style="border-collapse: collapse; border: none; border-colorborder-top:1px solid transparent; margin:0;">
+  <table width="100%" style="border-collapse: collapse; border: none; border-top:1px solid transparent; margin:0">
     <tr>
       <!-- Banner (left) -->
       <td align="left" valign="middle" style="border: none; width: 40%;">
