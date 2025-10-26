@@ -46,8 +46,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=OCR+A+Extended&size=21&duration=300&pause=1&color=000000&vCenter=true&multiline=true&repeat=false&width=600&height=70&lines=%E2%9D%AF+Focused+on+learning+and+documenting;%E2%9D%AF+Selected+pins+show+what+I've+built" alt="Highlights Content" />
 </a>
 
-<br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=OCR+A+Extended&size=25&duration=1&pause=99999&color=000000&vCenter=true&repeat=false&height=25&lines=Toolbox+Learning" alt="Typing SVG" /></a>
+<br><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=OCR+A+Extended&size=25&duration=1&pause=99999&color=000000&vCenter=true&repeat=false&height=25&lines=Toolbox+Learning" alt="Toolbox header" /></a>
 <p>
 
   <img height="24" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
