@@ -37,7 +37,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=OCR+A+Extended&size=21&duration=300&pause=1&color=000000&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=%E2%80%A2+First-year+postgraduate+student+at+UTM+Johor;%E2%80%A2+Exploring+coding%2C+creativity%2C+and+curiosity-driven" alt="About Content" />
 </a>
 
-<br>
+<br><br>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=OCR+A+Extended&size=25&duration=1&pause=99999&color=000000&vCenter=true&repeat=false&height=25&lines=Highlights" alt="Highlights Header" />
 </a>
@@ -51,6 +52,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=OCR+A+Extended&size=25&duration=1&pause=99999&color=000000&vCenter=true&repeat=false&height=25&lines=Toolbox Learning" alt="Toolbox Header" />
 </a>
+
 <br>
 <p>
 
