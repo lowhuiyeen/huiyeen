@@ -1,23 +1,6 @@
-<div>
-  <table width="100%" style="border-collapse: collapse; border: none;">
-    <tr>
-      <!-- Banner (left) -->
-      <td align="left" valign="middle" style="border: none; width: 20%;">
-        <img src="assets/banner.png" alt="Banner" style="border-radius: 20px; padding: 0;">
-      </td>
-      <td align="left" valign="middle" style="border: none; width: 60%; padding-left: 20px;">
-        <h1 style="margin: 0; border: none;">
-          Hi, I'm Hui Yeen
-          <img src="assets/greeting.gif?v=1" width="32" height="32" alt="wave">
-        </h1>
-        <p style="margin: 4px 0 0 0; font-style: italic;">
-          UTM Johor Student • Curious Builder • Learning in progress
-        </p>
-      </td>
-    </tr>
-  </table>
-
 </div>
+<h1 align="center" style = "border-collapse: collapse; border: none;">Hi, I'm Hui Yeen<img src="assets/greeting.gif?v=1" width="32" height="32" alt="wave">
+</h1> <p align="center"> <em>UTM Johor Student • Curious Builder • Learning in progress</em> </p>
 
 <!-- ====== CONTACT BADGES ====== -->
 <p align="center" >
@@ -37,9 +20,9 @@
 
 ---
 
-<table width="100%" style="border:none; border-top:1px solid #ddd; margin:0;">
+<table width="100%" style="border-collapse: collapse; border: none;">
 <tr>
-<td width="50%" valign="top" style="border:none; border-top:1px solid transparent; margin:0;">
+<td width="50%" valign="top" style="border: none;">
 
 ### About
 - First-year postgraduate student at UTM Johor  
@@ -55,7 +38,7 @@
 </p>
 </td>
 
-<td width="50%" valign="top" style="border:none; border-top:1px solid transparent; margin:0;">
+<td width="50%" valign="top" style="border: none;">
 
 ### Highlights
 > Focused on learning and documenting progress  
