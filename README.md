@@ -39,7 +39,7 @@
 
 <table width="100%" style="border-collapse: collapse; border: none;">
 <tr>
-<td width="50%" valign="top" style="border:none; border-top:1px solid transparent; margin:0;">
+<td width="50%" valign="top" style="border: none;">
 
 ### About
 - First-year postgraduate student at UTM Johor  
@@ -55,7 +55,7 @@
 </p>
 </td>
 
-<td width="50%" valign="top" style="border:none; border-top:1px solid transparent; margin:0;">
+<td width="50%" valign="top" style="border: none;">
 
 ### Highlights
 > Focused on learning and documenting progress  
