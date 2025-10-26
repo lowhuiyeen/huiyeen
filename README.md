@@ -1,28 +1,40 @@
+<div style="font-family: 'OCR A Extended', monospace;">
+
+<div>
+  <img align="left" width="40%" src="assets/banner.png" alt="Banner" style="border-radius: 20px; margin-right: 20px;">
+  
+  <div>
+    <h1 style="font-family: 'OCR A Extended', monospace;">
+      Hi, I'm Hui Yeen
+      <img src="assets/greeting.gif?v=1" width="32" height="32" alt="wave">
+    </h1>
+    <p style="font-family: 'OCR A Extended', monospace;"><em>UTM Johor Student • Curious Builder • Learning in progress</em></p>
+  </div>
+  
+  <br clear="left"/>
 </div>
-<h1 align="center" style = "border-collapse: collapse; border: none;">Hi, I'm Hui Yeen<img src="assets/greeting.gif?v=1" width="32" height="32" alt="wave">
-</h1> <p align="center"> <em>UTM Johor Student • Curious Builder • Learning in progress</em> </p>
 
 <!-- ====== CONTACT BADGES ====== -->
-<p align="center" >
-  <a href="https://github.com/lowhuiyeen" target="_blank">
+<p align="center">
+  <a href="https://github.com/lowhuiyeen">
     <img alt="GitHub" src="https://img.shields.io/badge/-@lowhuiyeen-181717?style=flat-square&logo=GitHub&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/huiyeenlow" target="_blank">
+  <a href="https://www.linkedin.com/in/huiyeenlow">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-huiyeenlow-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
-  <a href="https://www.youtube.com/@huiyeen" target="_blank">
+  <a href="https://www.youtube.com/@huiyeen">
     <img alt="YouTube" src="https://img.shields.io/badge/-@huiyeen-FF0000?style=flat-square&logo=YouTube&logoColor=white">
   </a>
-  <a href="mailto:lowhuiyeen@gmail.com" target="_blank">
+  <a href="mailto:lowhuiyeen@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/-lowhuiyeen@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">
   </a>
 </p>
 
 ---
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-<tr>
-<td width="50%" valign="top" style="border: none;">
+<table style="border-collapse: collapse; border: 0;">
+<tr style="border: 0;">
+<td width="50%" valign="top" style="border: 0; font-family: 'OCR A Extended', monospace;">
 
 ### About
 - First-year postgraduate student at UTM Johor  
@@ -36,13 +48,14 @@
   <img height="24" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img height="24" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </p>
+
 </td>
 
-<td width="50%" valign="top" style="border: none;">
+<td width="50%" valign="top" style="border: 0; font-family: 'OCR A Extended', monospace;">
 
 ### Highlights
 > Focused on learning and documenting progress  
-> Selected pins show what I’ve built or explored  
+> Selected pins show what I've built or explored  
 
 ### Stats
 <p align="left">
@@ -56,7 +69,7 @@
 
 ---
 
-<p align="center">
+<p align="center" style="font-family: 'OCR A Extended', monospace;">
   <a href="https://github.com/lowhuiyeen?tab=followers">
     <img alt="Followers" src="https://img.shields.io/github/followers/lowhuiyeen?style=flat&label=Followers">
   </a>
@@ -65,6 +78,8 @@
   </a>
 </p>
 
-<p align="center">
+<p align="center" style="font-family: 'OCR A Extended', monospace;">
   <sub>Calm clarity over noise — learning, sharing, growing</sub>
 </p>
+
+</div>
