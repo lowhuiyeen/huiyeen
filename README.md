@@ -1,9 +1,9 @@
 <div>
-  <table width="100%" style="border-collapse: collapse; border: none;">
+  <table width="100%" style="border-collapse: collapse; border: none; border-colorborder-top:1px solid transparent; margin:0;">
     <tr>
       <!-- Banner (left) -->
       <td align="left" valign="middle" style="border: none; width: 40%;">
-        <img src="assets/banner.png" alt="Banner" width="100%" style="border-radius: 20px; padding: 0;">
+        <img src="assets/banner.png" alt="Banner" style="border-radius: 20px; padding: 0;">
       </td>
       <td align="left" valign="middle" style="border: none; width: 60%; padding-left: 20px;">
         <h1 style="margin: 0; border: none;">
