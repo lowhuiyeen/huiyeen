@@ -26,17 +26,16 @@
 
 ---
 
-<div align="center">
-  <img src="assets/content-section.svg" alt="About and Highlights" width="100%">
-</div>
+<div style="font-family: 'Courier New', Courier, monospace;">
 
-<!-- Keep Stats as HTML so they update dynamically -->
-<table style="border-collapse: collapse; border: 0;">
-<tr style="border: 0;">
-<td width="50%" valign="top" style="border: 0;" align="center">
+<!-- Left Column -->
+<img align="left" width="45%" src="https://via.placeholder.com/10x10/00000000/00000000.png">
 
-**Toolbox Learning**
+### About
+- First-year postgraduate student at UTM Johor  
+- Exploring coding, creativity, and curiosity-driven learning  
 
+### Toolbox Learning
 <p>
   <img height="24" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img height="24" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -45,19 +44,22 @@
   <img height="24" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </p>
 
-</td>
-<td width="50%" valign="top" style="border: 0;" align="center">
+<!-- Right Column -->
+<img align="right" width="45%" src="https://via.placeholder.com/10x10/00000000/00000000.png">
 
-**Stats**
+### Highlights
+> Focused on learning and documenting progress  
+> Selected pins show what I've built or explored  
 
+### Stats
 <p>
   <img height="130" src="https://github-readme-stats.vercel.app/api?username=lowhuiyeen&show_icons=true&hide_title=true&theme=transparent" alt="Stats">
   <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowhuiyeen&layout=compact&theme=transparent" alt="Top Langs">
 </p>
 
-</td>
-</tr>
-</table>
+<br clear="both">
+
+</div>
 
 ---
 
