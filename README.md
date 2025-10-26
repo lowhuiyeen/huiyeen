@@ -1,21 +1,16 @@
-<div>
-  <table>
-    <tr>
-      <td align="left" valign="middle" width="40%">
-        <img src="assets/banner.png" alt="Banner" width="100%" style="border-radius: 20px;">
-      </td>
-      <td align="left" valign="middle" width="60%">
-        <h1>
-          Hi, I'm Hui Yeen
-          <img src="assets/greeting.gif?v=1" width="32" height="32" alt="wave">
-        </h1>
-        <p style="font-style: italic;">
-          UTM Johor Student • Curious Builder • Learning in progress
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- ====== BANNER ====== -->
+<p align="center">
+  <img src="assets/banner.png" alt="Hi, I'm Hui Yeen" width="100%">
+</p>
+
+<h1 align="center">
+  Hi, I'm Hui Yeen 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32" height="32" alt="wave">
+</h1>
+
+<p align="center">
+  UTM Johor Student • Curious Builder • Learning in Public
+</p>
 
 <!-- ====== CONTACT BADGES ====== -->
 <p align="center">
@@ -35,15 +30,16 @@
 
 ---
 
-<table>
+<table width="100%" style="border-collapse: collapse; border: none;">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border: none;">
 
 ### About
 - First-year postgraduate student at UTM Johor  
 - Exploring coding, creativity, and curiosity-driven learning  
+- Enjoying small, meaningful projects and tidy documentation  
 
-### Toolbox learning
+### Toolbox
 <p>
   <img height="24" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img height="24" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -51,16 +47,16 @@
   <img height="24" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img height="24" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </p>
-</td>
 
-<td width="50%" valign="top">
+</td>
+<td width="50%" valign="top" style="border: none;">
 
 ### Highlights
 > Focused on learning and documenting progress  
-> Selected pins show what I've built or explored  
+> Selected pins show what I’ve built or explored  
 
 ### Stats
-<p align="left">
+<p align="center">
   <img height="130" src="https://github-readme-stats.vercel.app/api?username=lowhuiyeen&show_icons=true&hide_title=true&theme=transparent" alt="Stats">
   <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowhuiyeen&layout=compact&theme=transparent" alt="Top Langs">
 </p>
