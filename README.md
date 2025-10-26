@@ -1,42 +1,44 @@
-<div>
-  <img align="left" width="40%" src="assets/banner.png" alt="Banner" style="border-radius: 20px; margin-right: 20px;">
-  
-  <div>
-    <h1>
-      Hi, I'm Hui Yeen
-      <img src="assets/greeting.gif?v=1" width="32" height="32" alt="wave">
-    </h1>
-    <p><i>UTM Johor Student • Curious Builder • Learning in progress</i></p>
-  </div>
-  
-  <br clear="left"/>
+<!-- ====== BANNER ====== -->
+<div align="center" style="
+  background-image: linear-gradient(rgba(0, 0, 0, 0.19), rgba(0, 0, 0, 0.29)), url('assets/banner.png');
+  background-size: cover;
+  background-position: center;
+  padding: 30px 0;
+  color: white;
+  border-radius: 10px;
+">
+  <h1>Hi, I'm Hui Yeen</h1>
+  <p>UTM Johor Student • Curious Builder • Learning in Public</p>
 </div>
 
 <!-- ====== CONTACT BADGES ====== -->
 <p align="center">
-  <a href="https://github.com/lowhuiyeen">
+  <a href="https://github.com/lowhuiyeen" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/-@lowhuiyeen-181717?style=flat-square&logo=GitHub&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/huiyeenlow">
+  <a href="https://www.linkedin.com/in/huiyeenlow" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-huiyeenlow-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
-  <a href="https://www.youtube.com/@huiyeen">
+  <a href="https://www.youtube.com/@huiyeen" target="_blank">
     <img alt="YouTube" src="https://img.shields.io/badge/-@huiyeen-FF0000?style=flat-square&logo=YouTube&logoColor=white">
   </a>
-  <a href="mailto:lowhuiyeen@gmail.com">
+  <a href="mailto:lowhuiyeen@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/-lowhuiyeen@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">
   </a>
 </p>
 
 ---
 
-## About
+<table width="100%" style="border-collapse: collapse; border: none;">
+<tr>
+<td width="50%" valign="top" style="border: none;">
 
+### About
 - First-year postgraduate student at UTM Johor  
 - Exploring coding, creativity, and curiosity-driven learning  
+- Enjoying small, meaningful projects and tidy documentation  
 
-## Toolbox Learning
-
+### Toolbox
 <p>
   <img height="24" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img height="24" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -44,18 +46,23 @@
   <img height="24" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img height="24" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </p>
+</td>
 
-## Highlights
+<td width="50%" valign="top" style="border: none;">
 
+### Highlights
 > Focused on learning and documenting progress  
-> Selected pins show what I've built or explored  
+> Selected pins show what I’ve built or explored  
 
-## Stats
-
-<p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lowhuiyeen&show_icons=true&theme=transparent" alt="GitHub Stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowhuiyeen&layout=compact&theme=transparent" alt="Top Languages">
+### Stats
+<p align="left">
+  <img height="130" src="https://github-readme-stats.vercel.app/api?username=lowhuiyeen&show_icons=true&hide_title=true&theme=transparent" alt="Stats">
+  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowhuiyeen&layout=compact&theme=transparent" alt="Top Langs">
 </p>
+
+</td>
+</tr>
+</table>
 
 ---
 
