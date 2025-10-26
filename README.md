@@ -37,7 +37,7 @@
 
 ---
 
-<table width="100%" style="border:none; border-top:1px solid #ddd; margin:0;">
+<table width="100%" style="border:none; ">
 <tr>
 <td width="50%" valign="top" style="border:none; border-top:1px solid transparent; margin:0;">
 
