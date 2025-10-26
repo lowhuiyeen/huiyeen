@@ -1,14 +1,10 @@
 <!-- ====== BANNER ====== -->
-<div align="center" style="
-  background-image: linear-gradient(rgba(0, 0, 0, 0.19), rgba(0, 0, 0, 0.29)), url('assets/banner.png');
-  background-size: cover;
-  background-position: center;
-  padding: 100px 0;
-  color: white;
-  border-radius: 10px;
-">
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Banner">
+</p>
+
 </div>
-<h1 align="center" style = "border-collapse: collapse; border: none;">Hi, I'm Hui Yeen<img src="assets/greeting.gif" width="32" height="32" alt="wave emoji">
+<h1 align="center" style = "border-collapse: collapse; border: none;">Hi, I'm Hui Yeen<img src="assets/greeting.gif?v=1" width="32" height="32" alt="wave">
 </h1> <p align="center"> <em>UTM Johor Student • Curious Builder • Learning in progress</em> </p>
 
 <!-- ====== CONTACT BADGES ====== -->
