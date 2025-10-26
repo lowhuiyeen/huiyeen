@@ -3,8 +3,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=40&pause=1000&color=000000&center=true&vCenter=true&width=550&height=60&lines=Hi%2C+I'm+Hui+Yeen" alt="Header" />
     <img src="assets/greeting.gif?v=1" width="40" height="40" alt="wave">
   </p>
-  <p style="font-family: 'Courier New', Courier, monospace;">
-    <em>UTM Johor Student • Curious Builder • Learning in progress</em>
+ <p align="center" style="display: flex; align-items: center; justify-content: center;">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=OCR+A+Extended&size=18&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=700&height=18&lines=UTM+Johor+Student+%E2%80%A2+Curious+Builder+%E2%80%A2+Learning+in+progress" alt="Subtext SVG" /></a>
   </p>
 </div>
 
@@ -25,17 +25,33 @@
 </p>
 
 ---
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div style="font-family: 'Courier New', Courier, monospace;">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=OCR+A+Extended&size=25&duration=1&pause=99999&color=000000&vCenter=true&repeat=false&height=25&lines=About" alt="About Header" />
+</a>
 
-<!-- Left Column -->
-<img align="left" width="45%" src="https://via.placeholder.com/10x10/00000000/00000000.png">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=OCR+A+Extended&size=21&duration=300&pause=1&color=000000&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=%E2%80%A2+First-year+postgraduate+student+at+UTM+Johor;%E2%80%A2+Exploring+coding%2C+creativity%2C+and+curiosity-driven" alt="About Content" />
+</a>
 
-### About
-- First-year postgraduate student at UTM Johor  
-- Exploring coding, creativity, and curiosity-driven learning  
+<br>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=OCR+A+Extended&size=25&duration=1&pause=99999&color=000000&vCenter=true&repeat=false&height=25&lines=Highlights" alt="Highlights Header" />
+</a>
 
-### Toolbox Learning
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=OCR+A+Extended&size=21&duration=300&pause=1&color=000000&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=%E2%9D%AF+Focused+on+learning+and+documenting;%E2%9D%AF+Selected+pins+show+what+I've+built" alt="Highlights Content" />
+</a>
+
+<br>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=OCR+A+Extended&size=25&duration=1&pause=99999&color=000000&vCenter=true&repeat=false&width=400&lines=Toolbox Learning" alt="Toolbox Header" />
+</a>
+
 <p>
   <img height="24" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img height="24" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -44,22 +60,22 @@
   <img height="24" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </p>
 
-<!-- Right Column -->
-<img align="right" width="45%" src="https://via.placeholder.com/10x10/00000000/00000000.png">
+</td>
+<td width="50%" valign="top">
 
-### Highlights
-> Focused on learning and documenting progress  
-> Selected pins show what I've built or explored  
 
-### Stats
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=OCR+A+Extended&size=25&duration=1&pause=99999&color=000000&vCenter=true&repeat=false&height=25&lines=Stats" alt="Stats Header" />
+</a>
+
 <p>
   <img height="130" src="https://github-readme-stats.vercel.app/api?username=lowhuiyeen&show_icons=true&hide_title=true&theme=transparent" alt="Stats">
   <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowhuiyeen&layout=compact&theme=transparent" alt="Top Langs">
 </p>
 
-<br clear="both">
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
