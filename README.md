@@ -1,19 +1,21 @@
-<table style="border-collapse: collapse; border: 0; background: transparent;">
-<tr style="border: 0; background: transparent;">
-<td width="40%" style="border: 0; background: transparent; padding: 0;">
-
-![Banner](assets/banner.png)
-
-</td>
-<td width="60%" style="border: 0; background: transparent; padding: 0;">
-
-# Hi, I'm Hui Yeen <img src="assets/greeting.gif?v=1" width="32" height="32" alt="wave">
-
-*UTM Johor Student • Curious Builder • Learning in progress*
-
-</td>
-</tr>
-</table>
+<div>
+  <table>
+    <tr>
+      <td align="left" valign="middle" width="40%">
+        <img src="assets/banner.png" alt="Banner" width="100%" style="border-radius: 20px;">
+      </td>
+      <td align="left" valign="middle" width="60%">
+        <h1>
+          Hi, I'm Hui Yeen
+          <img src="assets/greeting.gif?v=1" width="32" height="32" alt="wave">
+        </h1>
+        <p style="font-style: italic;">
+          UTM Johor Student • Curious Builder • Learning in progress
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- ====== CONTACT BADGES ====== -->
 <p align="center">
@@ -33,28 +35,15 @@
 
 ---
 
-<table style="border-collapse: collapse; border: 0; background: transparent;">
-<tr style="border: 0; background: transparent;">
-<td width="50%" valign="top" style="border: 0; background: transparent;">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### About
 - First-year postgraduate student at UTM Johor  
 - Exploring coding, creativity, and curiosity-driven learning  
 
-</td>
-<td width="50%" valign="top" style="border: 0; background: transparent;">
-
-### Highlights
-> Focused on learning and documenting progress  
-> Selected pins show what I've built or explored  
-
-</td>
-</tr>
-
-<tr style="border: 0; background: transparent;">
-<td width="50%" valign="top" style="border: 0; background: transparent;">
-
-### Toolbox Learning
+### Toolbox learning
 <p>
   <img height="24" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img height="24" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -62,9 +51,13 @@
   <img height="24" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img height="24" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </p>
-
 </td>
-<td width="50%" valign="top" style="border: 0; background: transparent;">
+
+<td width="50%" valign="top">
+
+### Highlights
+> Focused on learning and documenting progress  
+> Selected pins show what I've built or explored  
 
 ### Stats
 <p align="left">
