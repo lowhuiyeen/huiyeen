@@ -86,6 +86,6 @@
   </a>
 </p>
 
-<p align="center" style="font-family: 'Courier New', Courier, monospace;">
-  <sub>Calm clarity over noise — learning, sharing, growing</sub>
+<p align="center" style="display: flex; align-items: center; justify-content: center;">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=OCR+A+Extended&size=12&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=700&height=18&lines=Calm+clarity+over+noise+%E2%80%94+learning%2C+sharing%2C+growing" alt="Footer SVG" /></a>
 </p>
