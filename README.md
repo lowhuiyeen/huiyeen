@@ -8,10 +8,11 @@
   border-radius: 10px;
 ">
 </div>
-<h1 align="center" style = "border-collapse: collapse; border: none;">Hi, I'm Hui Yeen </h1> <p align="center"> <em>UTM Johor Student • Curious Builder • Learning in progress</em> </p>
+<h1 align="center" style = "border-collapse: collapse; border: none;">Hi, I'm Hui Yeen<img src="assets/greeting.gif" width="32" height="32" alt="wave emoji">
+</h1> <p align="center"> <em>UTM Johor Student • Curious Builder • Learning in progress</em> </p>
 
 <!-- ====== CONTACT BADGES ====== -->
-<p align="center">
+<p align="center" >
   <a href="https://github.com/lowhuiyeen" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/-@lowhuiyeen-181717?style=flat-square&logo=GitHub&logoColor=white">
   </a>
