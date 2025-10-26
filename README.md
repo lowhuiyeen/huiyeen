@@ -1,16 +1,28 @@
 <div>
-  <img align="left" width="38%" src="assets/banner.png" alt="Banner" style="margin-right: 20px; border-radius: 20px">
-  
-  <div>
-    <h1>Hi, I'm Hui Yeen <img src="assets/greeting.gif?v=1" width="32" height="32" alt="wave"></h1>
-    <p><i>UTM Johor Student • Curious Builder • Learning in progress</i></p>
-  </div>
-  
-  <br clear="left"/>
+  <table width="100%" style="border-collapse: collapse; border: none;">
+    <tr>
+      <!-- Banner (left) -->
+      <td align="left" valign="middle" style="border: none; width: 40%;">
+        <img src="assets/banner.png" alt="Banner" width="100%" style="border-radius: 20px; padding: 0;">
+      </td>
+
+      <!-- Text (right) -->
+      <td align="left" valign="middle" style="border: none; width: 60%; padding-left: 20px;">
+        <h1 style="margin: 0; border: none;">
+          Hi, I'm Hui Yeen
+          <img src="assets/greeting.gif?v=1" width="32" height="32" alt="wave">
+        </h1>
+        <p style="margin: 4px 0 0 0; font-style: italic;">
+          UTM Johor Student • Curious Builder • Learning in progress
+        </p>
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 <!-- ====== CONTACT BADGES ====== -->
-<p align="center">
+<p align="center" >
   <a href="https://github.com/lowhuiyeen" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/-@lowhuiyeen-181717?style=flat-square&logo=GitHub&logoColor=white">
   </a>
@@ -27,14 +39,15 @@
 
 ---
 
-<div>
-  <img align="left" width="48%" src="https://via.placeholder.com/10x10/00000000/00000000.png" alt="">
+<table width="100%" style="border-collapse: collapse; border: none;">
+<tr>
+<td width="50%" valign="top" style="border: none;">
 
 ### About
 - First-year postgraduate student at UTM Johor  
 - Exploring coding, creativity, and curiosity-driven learning  
 
-### Toolbox Learning
+### Toolbox learning
 <p>
   <img height="24" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img height="24" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -42,12 +55,13 @@
   <img height="24" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img height="24" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </p>
+</td>
 
-  <img align="right" width="48%" src="https://via.placeholder.com/10x10/00000000/00000000.png" alt="">
+<td width="50%" valign="top" style="border: none;">
 
 ### Highlights
 > Focused on learning and documenting progress  
-> Selected pins show what I've built or explored  
+> Selected pins show what I’ve built or explored  
 
 ### Stats
 <p align="left">
@@ -55,8 +69,9 @@
   <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowhuiyeen&layout=compact&theme=transparent" alt="Top Langs">
 </p>
 
-  <br clear="both"/>
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
