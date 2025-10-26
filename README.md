@@ -1,20 +1,12 @@
 <div>
-  <table>
-    <tr>
-      <td align="left" valign="middle" width="40%">
-        <img src="assets/banner.png" alt="Banner" width="100%" style="border-radius: 20px;">
-      </td>
-      <td align="left" valign="middle" width="60%">
-        <h1>
-          Hi, I'm Hui Yeen
-          <img src="assets/greeting.gif?v=1" width="32" height="32" alt="wave">
-        </h1>
-        <p style="font-style: italic;">
-          UTM Johor Student • Curious Builder • Learning in progress
-        </p>
-      </td>
-    </tr>
-  </table>
+  <img align="left" width="38%" src="assets/banner.png" alt="Banner" style="margin-right: 20px; border-radius: 20px">
+  
+  <div>
+    <h1>Hi, I'm Hui Yeen <img src="assets/greeting.gif?v=1" width="32" height="32" alt="wave"></h1>
+    <p><i>UTM Johor Student • Curious Builder • Learning in progress</i></p>
+  </div>
+  
+  <br clear="left"/>
 </div>
 
 <!-- ====== CONTACT BADGES ====== -->
@@ -35,15 +27,14 @@
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div>
+  <img align="left" width="48%" src="https://via.placeholder.com/10x10/00000000/00000000.png" alt="">
 
 ### About
 - First-year postgraduate student at UTM Johor  
 - Exploring coding, creativity, and curiosity-driven learning  
 
-### Toolbox learning
+### Toolbox Learning
 <p>
   <img height="24" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img height="24" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -51,9 +42,8 @@
   <img height="24" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img height="24" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </p>
-</td>
 
-<td width="50%" valign="top">
+  <img align="right" width="48%" src="https://via.placeholder.com/10x10/00000000/00000000.png" alt="">
 
 ### Highlights
 > Focused on learning and documenting progress  
@@ -65,9 +55,8 @@
   <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowhuiyeen&layout=compact&theme=transparent" alt="Top Langs">
 </p>
 
-</td>
-</tr>
-</table>
+  <br clear="both"/>
+</div>
 
 ---
 
