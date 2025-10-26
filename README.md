@@ -34,7 +34,7 @@
 </a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=OCR+A+Extended&size=21&duration=300&pause=1&color=000000&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=%E2%80%A2+First-year+postgraduate+student+at+UTM+Johor;%E2%80%A2+Exploring+coding%2C+creativity%2C+and+curiosity-driven" alt="About Content" />
+  <img src="https://readme-typing-svg.demolab.com?font=OCR+A+Extended&size=21&duration=300&pause=1&color=000000&vCenter=true&multiline=true&repeat=false&width=600&height=70&lines=%E2%80%A2+First-year+postgraduate+student+at+UTM+Johor;%E2%80%A2+Exploring+coding%2C+creativity%2C+and+curiosity-driven" alt="About Content" />
 </a>
 
 <br><br>
