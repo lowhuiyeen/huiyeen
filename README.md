@@ -3,18 +3,19 @@
 <h1 align="center" style = "font-family: OCR A Extended,monospace;border-collapse: collapse; border: none;">Hi, I'm Hui Yeen<img src="assets/greeting.gif?v=1" width="32" height="32" alt="wave">
 </h1> <p align="center" style="font-family: OCR A Extended,monospace;"> <em>UTM Johor Student • Curious Builder • Learning in progress</em> </p>
 
+
 <!-- ====== CONTACT BADGES ====== -->
-<p align="center" >
-  <a href="https://github.com/lowhuiyeen" target="_blank">
+<p align="center">
+  <a href="https://github.com/lowhuiyeen">
     <img alt="GitHub" src="https://img.shields.io/badge/-@lowhuiyeen-181717?style=flat-square&logo=GitHub&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/huiyeenlow" target="_blank">
+  <a href="https://www.linkedin.com/in/huiyeenlow">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-huiyeenlow-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
-  <a href="https://www.youtube.com/@huiyeen" target="_blank">
+  <a href="https://www.youtube.com/@huiyeen">
     <img alt="YouTube" src="https://img.shields.io/badge/-@huiyeen-FF0000?style=flat-square&logo=YouTube&logoColor=white">
   </a>
-  <a href="mailto:lowhuiyeen@gmail.com" target="_blank">
+  <a href="mailto:lowhuiyeen@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/-lowhuiyeen@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">
   </a>
 </p>
@@ -23,7 +24,7 @@
 
 <table style="border-collapse: collapse; border: 0;">
 <tr style="border: 0;">
-<td width="50%" valign="top" style="border: 0; font-family: 'OCR A Extended', monospace;">
+<td width="50%" valign="top" style="border: 0; font-family: 'Courier New', Courier, monospace;">
 
 ### About
 - First-year postgraduate student at UTM Johor  
@@ -40,7 +41,7 @@
 
 </td>
 
-<td width="50%" valign="top" style="border: 0; font-family: 'OCR A Extended', monospace;">
+<td width="50%" valign="top" style="border: 0; font-family: 'Courier New', Courier, monospace;">
 
 ### Highlights
 > Focused on learning and documenting progress  
@@ -58,7 +59,7 @@
 
 ---
 
-<p align="center" style="font-family: 'OCR A Extended', monospace;">
+<p align="center" style="font-family: 'Courier New', Courier, monospace;">
   <a href="https://github.com/lowhuiyeen?tab=followers">
     <img alt="Followers" src="https://img.shields.io/github/followers/lowhuiyeen?style=flat&label=Followers">
   </a>
@@ -67,7 +68,7 @@
   </a>
 </p>
 
-<p align="center" style="font-family: 'OCR A Extended', monospace;">
+<p align="center" style="font-family: 'Courier New', Courier, monospace;">
   <sub>Calm clarity over noise — learning, sharing, growing</sub>
 </p>
 
