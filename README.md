@@ -1,9 +1,9 @@
+</div>
 <!-- ====== BANNER ====== -->
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Banner">
+  <img src="assets/banner.png" width="90%%" alt="Banner" style="border-radius: 20px; padding: 10px 10px 10px 10px">
 </p>
 
-</div>
 <h1 align="center" style = "border-collapse: collapse; border: none;">Hi, I'm Hui Yeen<img src="assets/greeting.gif?v=1" width="32" height="32" alt="wave">
 </h1> <p align="center"> <em>UTM Johor Student • Curious Builder • Learning in progress</em> </p>
 
