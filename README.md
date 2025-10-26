@@ -1,18 +1,19 @@
-<div>
-  <img align="left" src="assets/banner.png" alt="Banner" width="40%" style="border-radius: 20px;">
-  
-  <div align="left" style="padding-left: 42%;">
-    <h1>
-      Hi, I'm Hui Yeen
-      <img src="assets/greeting.gif?v=1" width="32" height="32" alt="wave">
-    </h1>
-    <p style="font-style: italic;">
-      UTM Johor Student • Curious Builder • Learning in progress
-    </p>
-  </div>
-  
-  <br clear="left">
-</div>
+<table>
+<tr>
+<td width="40%">
+
+![Banner](assets/banner.png)
+
+</td>
+<td width="60%">
+
+# Hi, I'm Hui Yeen <img src="assets/greeting.gif?v=1" width="32" height="32" alt="wave">
+
+*UTM Johor Student • Curious Builder • Learning in progress*
+
+</td>
+</tr>
+</table>
 
 <!-- ====== CONTACT BADGES ====== -->
 <p align="center">
@@ -32,13 +33,28 @@
 
 ---
 
-<img align="left" width="48%" src="https://via.placeholder.com/10x10/00000000/00000000.png">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### About
+### 📖 About
 - First-year postgraduate student at UTM Johor  
 - Exploring coding, creativity, and curiosity-driven learning  
 
-### Toolbox learning
+</td>
+<td width="50%" valign="top">
+
+### ✨ Highlights
+> Focused on learning and documenting progress  
+> Selected pins show what I've built or explored  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧰 Toolbox Learning
 <p>
   <img height="24" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img height="24" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -47,19 +63,18 @@
   <img height="24" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </p>
 
-<img align="right" width="48%" src="https://via.placeholder.com/10x10/00000000/00000000.png">
+</td>
+<td width="50%" valign="top">
 
-### Highlights
-> Focused on learning and documenting progress  
-> Selected pins show what I've built or explored  
-
-### Stats
+### 📊 Stats
 <p align="left">
   <img height="130" src="https://github-readme-stats.vercel.app/api?username=lowhuiyeen&show_icons=true&hide_title=true&theme=transparent" alt="Stats">
   <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowhuiyeen&layout=compact&theme=transparent" alt="Top Langs">
 </p>
 
-<br clear="both">
+</td>
+</tr>
+</table>
 
 ---
 
