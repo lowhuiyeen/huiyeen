@@ -1,26 +1,24 @@
 <div>
-  <table width="100%" style="border-collapse: collapse; border: none;">
+  <table>
     <tr>
-      <!-- Banner (left) -->
-      <td align="left" valign="middle" style="border: none; width: 40%;">
-        <img src="assets/banner.png" alt="Banner" width="100%" style="border-radius: 20px; padding: 0;">
+      <td align="left" valign="middle" width="40%">
+        <img src="assets/banner.png" alt="Banner" width="100%" style="border-radius: 20px;">
       </td>
-      <td align="left" valign="middle" style="border: none; width: 60%; padding-left: 20px;">
-        <h1 style="margin: 0; border: none;">
+      <td align="left" valign="middle" width="60%">
+        <h1>
           Hi, I'm Hui Yeen
           <img src="assets/greeting.gif?v=1" width="32" height="32" alt="wave">
         </h1>
-        <p style="margin: 4px 0 0 0; font-style: italic;">
+        <p style="font-style: italic;">
           UTM Johor Student • Curious Builder • Learning in progress
         </p>
       </td>
     </tr>
   </table>
-
 </div>
 
 <!-- ====== CONTACT BADGES ====== -->
-<p align="center" >
+<p align="center">
   <a href="https://github.com/lowhuiyeen" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/-@lowhuiyeen-181717?style=flat-square&logo=GitHub&logoColor=white">
   </a>
@@ -37,9 +35,9 @@
 
 ---
 
-<table width="100%" style="border:none; ">
+<table>
 <tr>
-<td width="50%" valign="top" style="border:none; border-top:1px solid transparent; margin:0;">
+<td width="50%" valign="top">
 
 ### About
 - First-year postgraduate student at UTM Johor  
@@ -55,11 +53,11 @@
 </p>
 </td>
 
-<td width="50%" valign="top" style="border:none; border-top:1px solid transparent; margin:0;">
+<td width="50%" valign="top">
 
 ### Highlights
 > Focused on learning and documenting progress  
-> Selected pins show what I’ve built or explored  
+> Selected pins show what I've built or explored  
 
 ### Stats
 <p align="left">
