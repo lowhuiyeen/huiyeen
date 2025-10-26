@@ -52,8 +52,9 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=OCR+A+Extended&size=25&duration=1&pause=99999&color=000000&vCenter=true&repeat=false&height=25&lines=Toolbox Learning" alt="Toolbox Header" />
 </a>
+<br><br>
 
-<br>
+
 <p>
 
   <img height="24" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
