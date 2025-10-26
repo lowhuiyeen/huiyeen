@@ -37,7 +37,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=OCR+A+Extended&size=21&duration=300&pause=1&color=000000&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=%E2%80%A2+First-year+postgraduate+student+at+UTM+Johor;%E2%80%A2+Exploring+coding%2C+creativity%2C+and+curiosity-driven" alt="About Content" />
 </a>
 
-<br>
+<br><br>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=OCR+A+Extended&size=25&duration=1&pause=99999&color=000000&vCenter=true&repeat=false&height=25&lines=Highlights" alt="Highlights Header" />
 </a>
@@ -46,9 +47,15 @@
 </a>
 
 <br>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=OCR+A+Extended&size=25&duration=1&pause=99999&color=000000&vCenter=true&repeat=false&height=25&lines=Toolbox Learning" alt="Toolbox Header" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=OCR+A+Extended&size=25&duration=1&pause=99999&color=000000&vCenter=true&repeat=false&height=25&lines=Toolbox+Learning" alt="Typing SVG" /></a>
+<p>
+
+  <img height="24" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img height="24" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img height="24" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img height="24" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img height="24" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+</p>
 
 </td>
 <td width="50%" valign="top">
